@@ -1,3 +1,3 @@
 import BasicCounter from "./App";
 
-export { BasicCounter }
+export { BasicCounter };

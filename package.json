@@ -1,5 +1,11 @@
 {
+  "name": "basic-counter",
+  "version": "1.0.0",
+  "description": "a simple counter",
+  "author": "sanjay_npm",
+  "license": "MIT",
   "main": "index.js",
+  "repository": "git@github.com:Sanjay-87/basic-counter.git",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -22,6 +28,5 @@
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
-  },
-  "private": true
+  }
 }

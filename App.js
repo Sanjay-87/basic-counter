@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
 
-export default function App() {
+export default function BasicCounter() {
   const [count, setCount] = useState(0);
 
   const handleCounter = (data) => {
